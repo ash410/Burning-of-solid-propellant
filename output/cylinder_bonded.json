@@ -1,0 +1,27 @@
+{
+  "parameters": {
+    "form": "Цилиндрический канал",
+    "installation": "Скреплённый",
+    "diameter_mm": 240.0,
+    "length_mm": 1466.916,
+    "web_mm": 50.0,
+    "channel_diameter_override_mm": 100.0,
+    "fuel_name": "Учебное смесевое (методичка)",
+    "density_kg_m3": 1750.0,
+    "burn_rate_mm_s": 8.0,
+    "star_points": 8,
+    "star_half_angle_deg": 32.0,
+    "star_root_radius_mm": 2.5,
+    "slot_count": 4,
+    "slot_depth_mm": 450.0,
+    "slot_width_mm": 10.0
+  },
+  "results": {
+    "burn_limit_mm": 70.0,
+    "burn_duration_s": 8.75,
+    "initial_area_m2": 0.46084525290333245,
+    "average_area_m2": 0.7834369299356652,
+    "initial_mass_kg": 95.97102391711898,
+    "warnings": []
+  }
+}

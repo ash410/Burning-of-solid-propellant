@@ -1,0 +1,27 @@
+{
+  "parameters": {
+    "form": "Щелевой заряд",
+    "installation": "Скреплённый",
+    "diameter_mm": 240.0,
+    "length_mm": 1385.585,
+    "web_mm": 90.0,
+    "channel_diameter_override_mm": null,
+    "fuel_name": "Учебное смесевое (методичка)",
+    "density_kg_m3": 1750.0,
+    "burn_rate_mm_s": 8.0,
+    "star_points": 8,
+    "star_half_angle_deg": 32.0,
+    "star_root_radius_mm": 2.5,
+    "slot_count": 4,
+    "slot_depth_mm": 450.0,
+    "slot_width_mm": 10.0
+  },
+  "results": {
+    "burn_limit_mm": 90.0,
+    "burn_duration_s": 11.25,
+    "initial_area_m2": 0.6106391286855403,
+    "average_area_m2": 0.6349206278638065,
+    "initial_mass_kg": 99.99999451734894,
+    "warnings": []
+  }
+}

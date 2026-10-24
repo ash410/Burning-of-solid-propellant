@@ -1,0 +1,26 @@
+{
+  "parameters": {
+    "form": "Звездообразный канал",
+    "installation": "Скреплённый",
+    "diameter_mm": 240.0,
+    "length_mm": 1466.916,
+    "web_mm": 50.0,
+    "fuel_name": "Учебное смесевое (методичка)",
+    "density_kg_m3": 1750.0,
+    "burn_rate_mm_s": 8.0,
+    "star_points": 8,
+    "star_half_angle_deg": 32.0,
+    "star_root_radius_mm": 2.5,
+    "slot_count": 4,
+    "slot_depth_mm": 450.0,
+    "slot_width_mm": 10.0
+  },
+  "results": {
+    "burn_limit_mm": 60.66170970862928,
+    "burn_duration_s": 7.58271371357866,
+    "initial_area_m2": 1.132624586695006,
+    "average_area_m2": 0.9419959109519765,
+    "initial_mass_kg": 99.99999798957519,
+    "warnings": []
+  }
+}
